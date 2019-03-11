@@ -12,7 +12,6 @@ This repository includes the ANU cources notes including:
 
 For further information, see the section below.
 
----
 # TOC
 * [Math 1005: Discrete Mathematical Models](#math-1005)
 * [Math 1115: Advanced Mathematics and Applications 1](#math-1115)
