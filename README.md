@@ -18,7 +18,6 @@ For further information, see the section below.
 * [Comp 1100: Programming as problem solving](#comp-1100)
 * [Comp 1730: Programming for Scientists](#comp-1730)
 
-
 ---
 
 ### Math 1005
@@ -28,5 +27,3 @@ For further information, see the section below.
 ### Comp 1100
 
 ### Comp 1730
-
-Test Message 
