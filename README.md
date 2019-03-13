@@ -27,4 +27,3 @@ For further information, see the section below.
 ### Comp 1100
 
 ### Comp 1730
- 
