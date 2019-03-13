@@ -29,7 +29,5 @@ def test_sum_of_squares_return_type():
         assert result == int, message.format(result)
 
 
-
-
 if __name__ == '__main__':
     pytest.main(sys.argv)
