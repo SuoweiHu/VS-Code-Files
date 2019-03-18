@@ -1,8 +1,12 @@
-# COMP1730/6730 Homework 1. Semester 1, 2019.
-# Submission is due 11:55pm, Sunday the 10th of March, 2019.
+
 
 ## YOUR ANU ID: uNNNNNNN
 ## YOUR NAME:
+
+
+
+
+
 
 import robot
 
@@ -14,6 +18,7 @@ def right_two_spaces():
 def left_two_spaces():
     robot.drive_left()
     robot.drive_left()
+    
 
 ## Perform an unstacking manoeuvre.
 ## Assumption: At the start of the manoeuvre, the robot (gripper) is
